@@ -1,0 +1,37 @@
+{
+  "name": "krohnschein",
+  "version": "0.0.1",
+  "description": "Accessible WordPress theme utilizing flex layouts and modern development practices.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJgxB5ZeKaPttEso/krohnschein.git"
+  },
+  "author": "Johannes Krohn",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TJgxB5ZeKaPttEso/krohnschein/issues"
+  },
+  "homepage": "https://github.com/TJgxB5ZeKaPttEso/krohnschein#readme",
+  "devDependencies": {
+    "autoprefixer": "",
+    "browser-sync": "",
+    "gulp": "",
+    "gulp-image": "",
+    "gulp-jshint": "",
+    "gulp-newer": "",
+    "gulp-postcss": "",
+    "gulp-sass": "",
+    "gulp-sass-inline-svg": "^1.0.2",
+    "gulp-sourcemaps": "",
+    "gulp-svgmin": "",
+    "gulp-svgo": "",
+    "install": "",
+    "jshint": "",
+    "npm": "",
+    "susy": ""
+  }
+}

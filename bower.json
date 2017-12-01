@@ -1,0 +1,21 @@
+{
+  "name": "gulp-dev",
+  "description": "Accessible WordPress theme utilizing flex layouts and modern development practices.",
+  "main": "index.php",
+  "authors": [
+    "Johannes Krohn"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "breakpoint-sass": "^2.7.1"
+  }
+}
