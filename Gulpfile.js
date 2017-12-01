@@ -94,11 +94,7 @@ gulp.task('svgInline', function (complete) {
                 ,//js2svg
 
                 plugins: [
-                    {
-                        removeAttrs: {
-                            attrs: ['stroke.*', 'fill']
-                        }
-                    },
+
                     {
                         removeStyleElement: true
                     }, {
